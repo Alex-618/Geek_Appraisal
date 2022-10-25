@@ -3,8 +3,8 @@
 
 int main(int argc, char *argv[]) 
 {
- double y,h,i,a;
- h=0.001;
+ double y,i,a;
+ double h=0.001;
  scanf("%lf",&a);
  y=a;
  printf("(x=%lf,y=%lf)\n",0,y);
